@@ -1,23 +1,48 @@
-# Section-B_G-12_Profit-Track
 # Profit Track
 
-Retail analytics project using Walmart sales dataset.
+Retail analytics capstone project focused on improving revenue, profit margin, and stock efficiency.
 
-## Goal
-Analyze sales trends, holiday impact, store performance, and revenue insights.
+## Business Question
 
-## Team Roles
-- Project Lead:
-- Data Lead:
-- ETL Lead:
+How can management increase sales, profit margin, and stock efficiency using data?
 
-## Structure
+## KPIs
+
+- Monthly Revenue Growth %
+- Gross Profit Margin %
+- Inventory Stockout Rate %
+
+## Dataset
+
+Walmart Retail transactional dataset
+
+Rows: 673,502  
+Columns: 26
+
+## Folder Structure
+
 data/
+docs/
 notebooks/
 reports/
+scripts/
 tableau/
-docs/
 
-## Data Pipeline
-- **Extraction**: The raw dataset (`Walmart-Retail-Dataset.csv`) is loaded and inspected via `notebooks/01_extraction.ipynb`. Due to formatting inconsistencies, bad lines are skipped to ensure stable parsing.
-- **Cleaning**: Data is processed using `notebooks/02_cleaning.ipynb` leveraging the custom `basic_clean` function from `scripts/etl_pipeline.py`. This standardizes all column names to snake_case, removes duplicates, and trims whitespace from string columns. The final cleaned dataset is exported to `data/processed/cleaned_dataset.csv` and used for downstream EDA and Tableau reporting.
+## Completed Work
+
+- Repo Setup
+- Raw Data Upload
+- Cleaned Dataset
+- Data Dictionary
+- Extraction Notebook
+- Cleaning Notebook
+
+## Team Roles
+
+Project Lead  
+Data Lead  
+ETL Lead
+
+## Tools Used
+
+Python, Pandas, Jupyter, Git, GitHub, Tableau
