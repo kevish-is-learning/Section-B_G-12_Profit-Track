@@ -15,3 +15,14 @@ Use this folder as a reminder for each student to convert the capstone into a po
 ## Suggested Deliverable
 
 Add a short write-up in your personal portfolio site, Notion page, or PDF case study with a link back to this repository.
+
+## Team Members
+
+| Name | Role |
+| :--- | :--- |
+| [Satya Prakash](https://satya-666.github.io/Profile/) | Member |
+| Gourav Tanwar | Member |
+| Kevish Choudhary | Member |
+| Rudra | Member |
+| Aryan Kumar | Member |
+| Aditya Mathur | Member |
