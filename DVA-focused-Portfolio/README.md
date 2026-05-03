@@ -23,6 +23,6 @@ Add a short write-up in your personal portfolio site, Notion page, or PDF case s
 | [Satya Prakash](https://satya-666.github.io/Profile/) | Member |
 | Gourav Tanwar | Member |
 | Kevish Choudhary | Member |
-| [Rudra Pratap Singh Choudhary] (https://dvaportfolio-64znz4p1f-rudra-choudharys-projects.vercel.app/#)| Member |
+| [Rudra Pratap Singh Choudhary](https://dvaportfolio-64znz4p1f-rudra-choudharys-projects.vercel.app/#)| Member |
 | Aryan Kumar | Member |
 | Aditya Mathur | Member |
